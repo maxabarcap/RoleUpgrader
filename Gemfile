@@ -70,3 +70,10 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "faker"
+gem "devise"
+gem "bootstrap"
+gem "jquery-rails"
+gem "figaro"
+gem "aws-sdk-s3"

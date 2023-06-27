@@ -11,6 +11,12 @@ module RoleUpgrader
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 7.0
 
+    config.aws = {
+      access_key_id: 'AKIAX6Y7BVZDLALXWAXM',
+      secret_access_key: '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',
+      region: 'us-east-1'
+      
+    }
     # Configuration for the application, engines, and railties goes here.
     #
     # These settings can be overridden in specific environments using the files
